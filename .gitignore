@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+anaconda_projects/
+data/amazon-products.csv
